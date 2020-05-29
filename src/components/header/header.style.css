@@ -1,0 +1,25 @@
+header {
+  width: 90vw;
+  display: grid;
+  justify-content: center;
+  justify-items: center;
+  text-align: center;
+  margin: 1rem auto;
+}
+
+.title {
+  width: 90vw;
+  font-size: 2.8rem;
+  letter-spacing: 13px;
+  padding: 0.2rem;
+  background: darkred;
+  color: grey;
+  outline: 1px solid grey;
+  outline-offset: -4px;
+  padding: 0.3rem;
+}
+
+.img {
+  width: 40%;
+  margin-top: 1rem;
+}
